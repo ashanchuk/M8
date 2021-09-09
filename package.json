@@ -1,0 +1,24 @@
+{
+  "name": "m8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor ./test/config/protractor.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashanchuk/M8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.3.0",
+    "protractor": "^7.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ashanchuk/M8/issues"
+  },
+  "homepage": "https://github.com/ashanchuk/M8#readme"
+}
